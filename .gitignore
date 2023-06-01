@@ -115,3 +115,6 @@ notebooks
 */*/.DS_Store
 __MACOSX
 
+# Calvin's data organization
+data/
+
